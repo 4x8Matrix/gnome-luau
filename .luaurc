@@ -1,0 +1,10 @@
+{
+	"languageMode": "strict",
+	"lint": {
+		"*": false
+	},
+	"aliases": {
+		"src": "src",
+		"extern": "extern"
+	}
+}
